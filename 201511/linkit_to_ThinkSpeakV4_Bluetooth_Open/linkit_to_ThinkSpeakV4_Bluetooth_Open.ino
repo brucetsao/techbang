@@ -12,7 +12,7 @@ void setup() {
     digitalWrite(RelayPin , turnon) ;  
  Serial.begin(9600);
  Serial1.begin(9600) ;
-// while(!Serial) ;
+ while(!Serial) ;
  Serial.println("Program Start") ;
 }
 
