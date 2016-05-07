@@ -1,4 +1,5 @@
 # techbang
+
 1.	曹永忠，顯示技術：視覺暫留的應用- 手搖字幕機開發軟體篇，http://www.techbang.com/posts/42336-display-technologies-persistence-of-vision-hand-application-of-subtitle-software-article，2016年4月3日
 2.	曹永忠，顯示技術：視覺暫留的應用- 手搖字幕機開發硬體篇，http://www.techbang.com/posts/41880，2016年3月16日
 3.	曹永忠，實戰ARDUINO的RTC時鐘模組，教你怎麼進行網路校時，http://www.techbang.com/posts/40869-smart-home-arduino-internet-soul-internet-school，2016年3月3日
